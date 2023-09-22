@@ -1,6 +1,6 @@
 # Loush
 
-Loush is a very simple implementation of React. It is a library that allows you to create components and render them to the DOM. It is not a framework, it is not a replacement for React, it is just a simple implementation of React.
+Loush is a very simple implementation of React (It is a Learning Project). It is a library that allows you to create components and render them to the DOM. It is not a framework, it is not a replacement for React, it is just a simple implementation of React.
 
 ## Features
 
